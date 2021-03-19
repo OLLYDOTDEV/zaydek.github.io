@@ -12,6 +12,6 @@ Bookmark “Debug CSS”
 Click the bookmark to toggle it *on* and *off* 💡
 
 
-https://gist.github.com/zaydek/6b2e55258734deabbd2b4a284321d6f6 link to official JS file
+https://github.com/zaydek-old/zaydek.github.io/commit/46e512e10a508396909e029a961c152c22d25fc9 link to official JS file
 
 
